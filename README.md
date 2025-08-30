@@ -1,6 +1,14 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**🗣️ On May 21, join our next expert-led Q&A session — part of a weekly series. Ask questions and get feedback directly from course lecturers and mentors!**
+## 📹 Our event calendar — join Q&A sessions and webinars
+
+Want to stay updated on future events?
+
+👉[Subscribe to our calendar](https://qrco.de/nagoocal)
+
+&nbsp;
+
+# 🎓 What is this course about?
 
 ## 📌 Quick start
 
@@ -36,7 +44,7 @@ RAG and its technicalities; vector stores, databases in production. RAG evaluati
 
 **Project**: Adding RAG to the NPC Factory service.
 
-### Topic 4️⃣ Self-Served LLMs
+### [Topic 4️⃣ Self-Deployed LLMs](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/topic4)
 	
 Working with open source LLMs and practical LLM inference in production. Computational and memory bottlenecks of LLM inference.
 
